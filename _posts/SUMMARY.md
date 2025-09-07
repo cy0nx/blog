@@ -4,4 +4,4 @@
 
 ## 📝 Courses Notes
 
-- [12-Days-of-Defense](/12 Days of Defense/)
+- [12-Days-of-Defense](/12-Days-of-Defense/)
